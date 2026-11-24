@@ -6,5 +6,5 @@ Cách cài: mở app Zepp > Hồ sơ > chọn đồng hồ > Chế độ nhà ph
 
 | Mã QR | Tên | Loại | Phiên bản | Đồng hồ | Cập nhật |
 | --- | --- | --- | --- | --- | --- |
-| <img src="apps/news-watch/amazfit-balance-3.png" width="160"> | [Đọc Báo](apps/news-watch/amazfit-balance-3.zip) | Mini Program | 1.0.0 | Amazfit Balance 3 | 24/11/2026 13:25 |
+| <img src="apps/news-watch/amazfit-balance-3.png" width="160"> | [Đọc Báo](apps/news-watch/amazfit-balance-3.zip) | Mini Program | 1.0.0 | Amazfit Balance 3 | 24/11/2026 13:30 |
 | <img src="apps/vnstock-watch/amazfit-balance-3.png" width="160"> | [VNStock](apps/vnstock-watch/amazfit-balance-3.zip) | Mini Program | 1.0.0 | Amazfit Balance 3 | 24/11/2026 13:25 |
